@@ -1,0 +1,26 @@
+{
+  "name": "stride-tracker",
+  "version": "1.0.0",
+  "description": "Upload these six files directly to the root of your GitHub Pages repository: `index.html`, `manifest.json`, `service-worker.js`, `icon-192.png`, `icon-512.png`, and `README.md`.",
+  "main": "service-worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarman033/Stride-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jarman033/Stride-tracker/issues"
+  },
+  "homepage": "https://github.com/jarman033/Stride-tracker#readme",
+  "dependencies": {
+    "@capacitor/android": "^8.5.3",
+    "@capacitor/cli": "^8.5.3",
+    "@capacitor/core": "^8.5.3"
+  }
+}
